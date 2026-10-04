@@ -29,3 +29,7 @@
 - Conservar “vossa” e “vossos” como registro dos personagens quando coerente; não uniformizar pronomes antes da passagem de voz.
 - Título de leitura: “O espelho de lama, sangue e lã”; pontuação editorial provisória.
 - Não incluir trecho cancelado da página 3 na narrativa; original permanece preservado.
+
+## Decisões aplicadas na versão final v1
+
+Ver relatorio-final-revisao.md para o registro completo. Mantidos dezoito meses de planejamento; retirada a referência ao inverno passado. Faca deixada sobre a mesa; pergaminho levado por Severina; Vicente permanece no salão e só esvazia a caneca na coda. Guarda deixa de reprimir diante da união coletiva. Demandas: revogação de decretos abusivos, devolução de terras e redução de tributos. Nome da taberna provisório: Pouso di Vaca.

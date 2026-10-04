@@ -1,0 +1,5 @@
+trabalho_editorial/previas/
+trabalho_editorial/extracao-*.txt
+__pycache__/
+tmp/
+*.tmp

@@ -30,3 +30,7 @@ A pasta não possuía repositório Git; um repositório local foi inicializado, 
 O autor determinou criação e sincronização automáticas sem novo pedido. A orientação está registrada em PREFERENCIAS-EDITORIAIS.md e substitui o adiamento de commits até o final da revisão.
 
 Verificada conta GitHub vorneermel via conector. Não foi localizado repositório desta obra entre os repositórios acessíveis. GitHub CLI ausente; credencial do Git local indisponível. Navegador aberto em github.com/new redirecionou para login. Criação remota e envio aguardam login/autenticação. Preparado commit local com todos os PDFs originais e os arquivos editoriais; revisão permanece em andamento.
+
+## Backup confirmado — 04/10/2026
+
+Repositório público criado: https://github.com/vorneermel/o-espelho-de-lama-sangue-e-la . Commit inicial 188e98ce4005351052779a3f6b77011fd13a4032 enviado e confirmado em refs/heads/main por git ls-remote. Inclui os 15 PDFs originais e todos os arquivos editoriais necessários; imagens de prévia reproduzíveis excluídas. Autorização permanente reiterada diretamente pelo usuário para divulgação pública e registrada na skill editor-livros-kdp e no AGENTS.md geral. A regra de esperar o final da revisão foi removida da skill. Autenticação CLI/Git configurada. Os bloqueios descritos acima são históricos e foram resolvidos.
